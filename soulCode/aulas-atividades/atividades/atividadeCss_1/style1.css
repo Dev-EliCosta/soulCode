@@ -1,0 +1,32 @@
+
+.box {
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
+    background-color: #f0f0f0;
+}
+
+
+#box {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+
+#imagem {
+    width: 100px;
+    height: 100px;
+    background-color: #ddd;
+    border: 1px solid #aaa;
+    margin-bottom: 10px;
+}
+
+
+#gradiente {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(45deg, #ffcc00, #ff3300);
+    border: 1px solid #aaa;
+}

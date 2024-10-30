@@ -1,0 +1,44 @@
+
+.header-bg {
+    background-color: lightblue;
+}
+
+.footer-bg {
+    background-color: lightgray;
+}
+
+#main-title {
+    color: darkblue;
+}
+
+
+.hobbies-list li {
+    color: darkgreen;
+    margin-bottom: 5px;
+}
+
+
+.hobbies-list li:hover {
+    color: orange;
+}
+
+
+a:link {
+    color: blue;
+}
+
+.footer-bg:active {
+
+    color:black;
+}
+
+a:visited {
+    color: purple;
+}
+
+.footer-bg:hover {
+    border: 2px solid red;
+}
+
+
+
